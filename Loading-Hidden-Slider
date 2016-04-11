@@ -1,0 +1,16 @@
+  /**** Main.js Start ****/
+  
+  $(window).load(function(){
+    $('.banner-wrp').removeClass('loading-hidden')
+  })
+  
+/**** Main.js End ****/
+
+/**** Styel Start ****/
+
+.loading-hidden{
+ 	height:500px;
+ 	visibility: hidden;
+ }
+ 
+ /**** Styel End ****/
